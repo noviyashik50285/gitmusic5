@@ -1,0 +1,127 @@
+* {  padding: 0;  margin: 0;  box-sizing: border-box;  }
+.butnfon{ display: flex; 
+  padding-left: 3rem; padding-top: 1rem;
+  font-size: medium; color: red; margin-left: -4rem;
+  justify-content: space-between;
+  align-items: flex-start;  /* align-items: start !important; */
+} 
+#butnfon2{ display: block;
+  margin-top: 2rem;
+  align-items: center;
+  position: absolute;
+  justify-content: space-between;  
+  /* display: flex; position: absolute; 
+  padding-left: 3rem; padding-top: 3rem;
+  font-size: medium; color: red; margin-left: -4rem;
+  align-items: flex-start;  align-items: start !important; */
+}
+a{color: red;}
+a:hover{ color: white;} 
+/* #butn0{ color: red; } */
+.victor{ 
+  display: block;
+  margin-top: 24rem;  /* opacity: 0.95; */
+  align-items: center;
+  position: absolute;
+}
+.victor1{ 
+  display: block;
+  margin-top: 5rem;   /* opacity: 0.95; */
+  align-items: center;
+  position: absolute;
+}
+button{ background-color: transparent;
+    background-repeat: no-repeat;
+    border: 1; color: red;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
+button:hover{color: white;}
+body {  background-image: url(back/grandcanyon.jpg);
+  /* background: radial-gradient(rgb(55, 255, 0), blue); */
+  min-height: 100vh;
+  overflow: hidden;
+	background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  display: flex;  /* align-items: center; */
+  justify-content: center;
+  min-height: 100vh;
+  font-family: "poppins", sans-serif;
+  font-size: 0.8rem;
+  overflow: hidden;
+}
+.background {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+.container {  
+  display: block;
+  margin-top: 10rem; color: white;
+  opacity: 0.85;
+  align-items: center;
+  position: absolute;
+  /* background-color: #99c39c; */
+  width: 400px;
+  height: 160px;
+  border: 3px solid gray;
+  border-radius: 1rem;
+  /* box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3); */
+}
+h2 {
+  font-size: 1.2rem;
+  text-align: center;
+  font-weight: 500;
+}
+.player_progress {
+  background-color: #c6bfbf;
+  border-radius: 5px;
+  height: 6px;
+  width: 90%;
+  margin: 40px 20px 35px;
+  position: relative;
+  cursor: pointer;
+}
+.progress {
+  background-color: #212121;
+  border-radius: 5px;
+  height: 100%;
+  width: 0%;
+  transition: all 0.2s linear;
+}
+.music_duration {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  top: -25px;
+}
+.player_controls { padding-left: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fa-solid {
+  font-size: 30px;
+  color: #666;
+  cursor: pointer;
+  margin-right: 30px;
+  user-select: none;
+  transition: all 0.3s ease-in;
+}
+.fa-solid:hover {
+  filter: brightness(40%);
+}
+.play-button {
+  font-size: 44px;
+}
+#maxim{position: absolute; z-index: 3; font-size: medium;
+padding-left: 10.3rem; padding-top: 2.3rem;
+}
+#zaonpp{position: absolute; z-index: 3;
+padding-left: 9.5rem; padding-top: 5rem;
+}
+p{color: #fff;}
