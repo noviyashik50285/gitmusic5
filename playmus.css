@@ -1,4 +1,4 @@
-* {  padding: 0;  margin: 0;  box-sizing: border-box;  }
+*{ padding: 0; margin: 0; box-sizing: border-box; }
 #otklvse{ display: block; 
   position: absolute;
   opacity: 0;
@@ -149,6 +149,6 @@ h2 {
 padding-left: 10.3rem; padding-top: 2.3rem;
 }
 #zaonpp{position: absolute; z-index: 3;
-padding-left: 13.8rem; padding-top: 5rem;
+padding-left: 12.4rem; padding-top: 5rem;
 }
 p{color: #fff;}
