@@ -24,20 +24,9 @@
   align-items: center;
   position: absolute;
   justify-content: space-between;  
-  /* display: flex; position: absolute; 
-  padding-left: 3rem; padding-top: 3rem;
-  font-size: medium; color: red; margin-left: -4rem;
-  align-items: flex-start;  align-items: start !important; */
 }
 a{color: red;}
 a:hover{ color: white;} 
-/* #butn0{ color: red; } */
-/* .victor{ 
-  display: block;
-  margin-top: 24rem;  
-  align-items: center;
-  position: absolute;
-} */
 .victor1{ 
   display: block;
   margin-top: 5.5rem;   /* opacity: 0.95; */
@@ -145,10 +134,7 @@ h2 {
 .play-button {
   font-size: 44px;
 }
-#maxim{position: absolute; z-index: 3; font-size: medium;
-padding-left: 10.3rem; padding-top: 2.3rem;
-}
 #zaonpp{position: absolute; z-index: 3;
-padding-left: 12.4rem; padding-top: 5rem;
+padding-left: 12.5rem; padding-top: 5rem;
 }
 p{color: #fff;}
