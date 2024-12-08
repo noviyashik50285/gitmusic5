@@ -1,0 +1,11 @@
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+#prim01, #prim02, #prim03, #prim04, #prim05,
+#prim06, #prim07, #prim08, #prim09, #prim10,
+#prim11, #prim12, #prim13, #prim14, #prim15,
+#prim16, #prim17, #prim18, #prim19, #prim20, #prim21, #prim22
+{ display: none; }
+
+.butnfon{ position: absolute; z-index: 3;}
+
+#otklvse{z-index: 5;}
