@@ -41,7 +41,7 @@ button{ background-color: transparent;
     outline: none;
 }
 button:hover{color: white;}
-body {  background-image: url(back/grandcanyon.jpg);
+body {  background-image: url(back/grandcanyon_.jpg);
   /* background: radial-gradient(rgb(55, 255, 0), blue); */
   min-height: 100vh;
   overflow: hidden;
