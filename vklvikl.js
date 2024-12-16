@@ -30,12 +30,12 @@ function show_hide3()
 {
 if(k==1) {
     document.getElementById("butnfon").style.display="inline";
-    document.getElementById("butnfon2").style.display="inline";
+    document.getElementById("butnfon1").style.display="inline";
     return k=0;
 }
 else{
     document.getElementById("butnfon").style.display="none";
-    document.getElementById("butnfon2").style.display="none";
+    document.getElementById("butnfon1").style.display="none";
     return k=1;
 }
 }
