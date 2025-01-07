@@ -9,10 +9,10 @@
   }
   #otklvse:hover {
       opacity: 1;
-      color: black;
+      color: rgb(88, 58, 58);
   }
   /* .vnizuspan{ text-align: center; font-size: .8rem;} */
-  
+button{ border: 1px dashed #344e30; border-radius: 10px; }  
 .butnfon{ display: block; 
   padding-top: 1.8rem;
   font-size: medium; color: red;
