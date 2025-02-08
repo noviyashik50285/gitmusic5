@@ -62,11 +62,10 @@ body {  background-image: url(back/grandcanyon_.jpg);
 }
 .container {  
   display: block;
-  margin-top: 7.6rem; color: white;
+  margin-top: 7rem; color: white;
   opacity: 0.8;
   align-items: center;
-  position: absolute;
-  /* background-color: #99c39c; */
+  position: absolute;  /* background-color: #99c39c; */
   width: 500px;
   height: 160px;
   border: 3px solid gray;
@@ -75,7 +74,7 @@ body {  background-image: url(back/grandcanyon_.jpg);
 }
 .containerop {  
   display: block;
-  margin-top: 19.6rem; color: white;
+  margin-top: 17.8rem; color: white;
   font-size: 1.25rem;
   opacity: 0.85; text-align: center;
   align-items: center;
